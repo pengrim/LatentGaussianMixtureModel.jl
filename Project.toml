@@ -1,0 +1,6 @@
+name = "LatentGaussianMixtureModel"
+uuid = UUIDs.uuid4()
+authors = ["Kristoffer Carlsson <kristoffer.carlsson@juliacomputing.com>"]
+version = "0.1.0"
+
+[deps]
