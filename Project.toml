@@ -4,3 +4,12 @@ authors = ["PanLanFeng"]
 version = "0.1.0"
 
 [deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
+GaussianMixtureTest = "435c3d8c-e5f4-5f7f-83ee-d96dcc9b5a11"
+LatentGaussianMixtureModel = "bf7dd2fb-5038-5d63-9f84-cbcfe42549ae"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
+StatsModels = "3eaba693-59b7-5ba5-a881-562e759f1c8d"
+Yeppp = "6310b701-1812-5374-a82f-9f6f2d54a40a"
