@@ -1,6 +1,6 @@
 name = "LatentGaussianMixtureModel"
-uuid = UUIDs.uuid4()
-authors = ["Kristoffer Carlsson <kristoffer.carlsson@juliacomputing.com>"]
+uuid = "bf7dd2fb-5038-5d63-9f84-cbcfe42549ae"
+authors = ["PanLanFeng"]
 version = "0.1.0"
 
 [deps]
